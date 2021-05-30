@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Andoriya</h1>
 <h3 align="center">A Noob Android developer ,IIITV</h3>
 
-- 🔭 I’m currently working on Flutter & Python
+- 🔭 I’m currently working on A Flutter Project
 
 - 🌱 I’m currently learning Flutter FireBase
 
