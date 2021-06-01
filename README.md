@@ -5,7 +5,7 @@
 
 - I’m currently learning Flutter,FireBase & Cloud.
 
--  I’m looking Someone to help with Competitive Coding.
+-  I’m looking Someone to help me with Competitive Coding.
 
 - How to reach me andoriyanishant@gmail.com
 
