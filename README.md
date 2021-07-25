@@ -11,10 +11,6 @@
 
 - Fun fact I'm either Coding, Playing TT or getting HeadShot in CSGO becoz of FPS xD!!
 
-### Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nishant Spotify Playing" width="350" />](https://open.spotify.com/user/31qzkkehkavaapyevaaajyqr3pim)
-
 ### Git Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=M-A-D-A-R-A&show_icons=true&theme=radical)
