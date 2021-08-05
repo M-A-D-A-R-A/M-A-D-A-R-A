@@ -18,15 +18,16 @@
 
   
 </p>
-
-### Git Stats
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=M-A-D-A-R-A&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M-A-D-A-R-A&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
-
 <h3 align="left">Contacts</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/nishant-andoriya-831727199/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/linkedin.svg"></a>
     <a href="https://github.com/M-A-D-A-R-A" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/github.svg"></a>
     <a href="https://www.instagram.com/__nnishantt/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/instagram.svg"></a>
+
+<h3 align="left">Git Stats</h3>
+<p align="center">
+<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api?username=M-A-D-A-R-A&show_icons=true&theme=radical"/>
+<img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=M-A-D-A-R-A&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/>
+</p>
+
 
