@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Nishant Andoriya</h1>
 <h3 align="center">A Noob Android developer ,IIITV</h3>
 
-- I’m currently working on A Flutter Project.
+- I’m currently working on Backend in Flutter.
 
-- I’m currently learning Flutter,FireBase & Cloud.
+- I’m currently learning Flutter & Flask .
 
 -  I’m looking Someone to help me with Competitive Coding.
 
 - How to reach me andoriyanishant@gmail.com
 
-- Fun fact I'm either Coding, Playing TT or getting HeadShot in CSGO becoz of FPS xD!!
+- Fun fact I'm either Coding,or stuck on a level of A CTF xD!!
 
 
 <h3 align="left">Languages and Tools:</h3>
