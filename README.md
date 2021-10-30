@@ -3,9 +3,9 @@
 
 - I’m currently working on Backend in Flutter.
 
-- I’m currently learning Flutter & Flask .
+- I’m currently learning Flutter, Flask & Go.
 
--  I’m looking Someone to help me with Competitive Coding.
+-  I’m looking Someone to help me with Competitive Coding and DSA.
 
 - How to reach me andoriyanishant@gmail.com
 
