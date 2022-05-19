@@ -9,7 +9,7 @@
 
 - How to reach me andoriyanishant@gmail.com
 
-- Fun fact I'm either Coding,or stuck on a level of A CTF xD!!
+- Fun fact I'm either Coding,or stuck on a level of A CTF xD!
 
 
 <h3 align="left">Languages and Tools:</h3>
