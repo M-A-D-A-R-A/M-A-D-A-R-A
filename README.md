@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Nishant Andoriya</h1>
 <h3 align="center">A Noob Android developer ,IIITV</h3>
 
-- I’m currently working on Backend in Flutter.
-
 - I’m currently learning Flutter, Flask & Go.
 
 -  I’m looking Someone to help me with Competitive Coding and DSA.
