@@ -3,7 +3,7 @@
 
 - I’m currently learning Flutter, Flask & Go.
 
--  I’m looking Someone to help me with Competitive Coding and DSA.
+-  I’m looking Someone to help me with Open Source and DSA.
 
 - How to reach me andoriyanishant@gmail.com
 
