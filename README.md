@@ -24,7 +24,7 @@
 
 <h3 align="left">Git Stats</h3>
 <p align="center">
-<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api?username=M-A-D-A-R-A&show_icons=true&theme=radical"/>
+<img height= "180cm" width="331" src = "(https://github-readme-stats.vercel.app/api?username=M-A-D-A-R-A&theme=dark&show_icons=true)">
 <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=M-A-D-A-R-A&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/>
 </p>
 
