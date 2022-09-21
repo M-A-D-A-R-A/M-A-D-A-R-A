@@ -25,6 +25,7 @@
 <h3 align="left">Git Stats</h3>
 <p align="center">
 <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=M-A-D-A-R-A&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/>
+<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-D-A-R-A&hide=TeX&layout=compact&theme=dark)](https://git.io/streak-stats"/>
 </p>
 
 
